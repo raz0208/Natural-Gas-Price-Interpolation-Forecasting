@@ -1,5 +1,5 @@
 ## **Task1: Natural Gas Price Forecasting – Code Review & Analysis Report**
---- JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage ---
+JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage
 
 ### Project Overview
 
